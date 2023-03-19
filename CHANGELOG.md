@@ -1,58 +1,58 @@
 ## 0.1.2
 
-* [Issue #13][issue-12] fixed - Support for RTL languages added
+- [Issue #13][issue-12] fixed - Support for RTL languages added
 
 ## 0.1.1
 
-* [Issue #9][issue-9] fixed
+- [Issue #9][issue-9] fixed
 
-* Code refactored
+- Code refactored
 
-* Responsiveness improved for Desktop & Tablet
+- Responsiveness improved for Desktop & Tablet
 
-[issue-9]: https://github.com/mhmzdev/awesome_snackbar_content/issues/9
+[issue-9]: https://github.com/mhmzdev/awesome_snackbar_content_new/issues/9
 
 ## 0.1.0
 
-* message text `TextAlign.left`
+- message text `TextAlign.left`
 
 ## 0.0.9
 
-* Overflow issue fixed, idea from [#6](pr6)
-* Configuration added to use in `showMaterialBanner`, see [example](example/example.dart)
+- Overflow issue fixed, idea from [#6](pr6)
+- Configuration added to use in `showMaterialBanner`, see [example](example/example.dart)
 
-[pr6]:(https://github.com/mhmzdev/awesome_snackbar_content/pull/6)
+[pr6]: (https://github.com/mhmzdev/awesome_snackbar_content_new/pull/6)
 
 ## 0.0.8
 
-* Changelog.md file format fixes
+- Changelog.md file format fixes
 
 ## 0.0.7
 
-* Handle issues with responsiveness on various screens
+- Handle issues with responsiveness on various screens
 
 ## 0.0.6
 
-* Desktop support added
+- Desktop support added
 
 ## 0.0.5
 
-* Documentation issues
+- Documentation issues
 
 ## 0.0.4
 
-* Fixed Accessing assets of package itself
+- Fixed Accessing assets of package itself
 
 ## 0.0.3
 
-* Documentation updated
+- Documentation updated
 
 ## 0.0.2
 
-* Minor changes
+- Minor changes
 
 ## 0.0.1
 
-* First Release
+- First Release
 
-* Assets path added
+- Assets path added

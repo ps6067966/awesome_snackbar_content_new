@@ -1,4 +1,4 @@
-import 'package:awesome_snackbar_content/src/default_colors.dart';
+import 'package:awesome_snackbar_content_new/src/default_colors.dart';
 import 'package:flutter/cupertino.dart';
 
 /// to handle failure, success, help and warning `ContentType` class is being used

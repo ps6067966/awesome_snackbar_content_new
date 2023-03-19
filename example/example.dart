@@ -1,5 +1,6 @@
+import 'package:awesome_snackbar_content_new/awesome_snackbar_content.dart';
+import 'package:awesome_snackbar_content_new/src/awesome_snackbar_content.dart';
 import 'package:flutter/material.dart';
-import 'package:awesome_snackbar_content/awesome_snackbar_content.dart';
 
 class AweseomSnackBarExample extends StatelessWidget {
   const AweseomSnackBarExample({Key? key}) : super(key: key);
@@ -15,7 +16,7 @@ class AweseomSnackBarExample extends StatelessWidget {
               child: const Text('Show Awesome SnackBar'),
               onPressed: () {
                 final snackBar = SnackBar(
-                  /// need to set following properties for best effect of awesome_snackbar_content
+                  /// need to set following properties for best effect of awesome_snackbar_content_new
                   elevation: 0,
                   behavior: SnackBarBehavior.floating,
                   backgroundColor: Colors.transparent,
@@ -39,7 +40,7 @@ class AweseomSnackBarExample extends StatelessWidget {
               child: const Text('Show Awesome Material Banner'),
               onPressed: () {
                 final materialBanner = MaterialBanner(
-                  /// need to set following properties for best effect of awesome_snackbar_content
+                  /// need to set following properties for best effect of awesome_snackbar_content_new
                   elevation: 0,
                   backgroundColor: Colors.transparent,
                   forceActionsBelow: true,

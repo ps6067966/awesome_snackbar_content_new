@@ -1,6 +1,6 @@
-import 'package:awesome_snackbar_content/src/assets_path.dart';
-import 'package:awesome_snackbar_content/src/content_type.dart';
-import 'package:awesome_snackbar_content/utils/languages.dart';
+import 'package:awesome_snackbar_content_new/src/assets_path.dart';
+import 'package:awesome_snackbar_content_new/src/content_type.dart';
+import 'package:awesome_snackbar_content_new/utils/languages.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -111,7 +111,7 @@ class AwesomeSnackbarContent extends StatelessWidget {
                 height: size.height * 0.06,
                 width: size.width * 0.05,
                 color: hslDark.toColor(),
-                package: 'awesome_snackbar_content',
+                package: 'awesome_snackbar_content_new',
               ),
             ),
           ),
@@ -133,14 +133,14 @@ class AwesomeSnackbarContent extends StatelessWidget {
                   AssetsPath.back,
                   height: size.height * 0.06,
                   color: hslDark.toColor(),
-                  package: 'awesome_snackbar_content',
+                  package: 'awesome_snackbar_content_new',
                 ),
                 Positioned(
                   top: size.height * 0.015,
                   child: SvgPicture.asset(
                     assetSVG(contentType),
                     height: size.height * 0.022,
-                    package: 'awesome_snackbar_content',
+                    package: 'awesome_snackbar_content_new',
                   ),
                 )
               ],
@@ -188,7 +188,7 @@ class AwesomeSnackbarContent extends StatelessWidget {
                       child: SvgPicture.asset(
                         AssetsPath.failure,
                         height: size.height * 0.022,
-                        package: 'awesome_snackbar_content',
+                        package: 'awesome_snackbar_content_new',
                       ),
                     ),
                   ],

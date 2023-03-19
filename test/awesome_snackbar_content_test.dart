@@ -1,6 +1,6 @@
 // import 'package:flutter_test/flutter_test.dart';
 //
-// import 'package:awesome_snackbar_content/awesome_snackbar_content.dart';
+// import 'package:awesome_snackbar_content_new/awesome_snackbar_content_new.dart';
 //
 // void main() {
 //   test('adds one to input values', () {
